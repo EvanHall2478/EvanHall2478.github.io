@@ -1,0 +1,14 @@
+title: "Evan Hall's Portfolio"
+description: "A quick insight into me and my projects."
+theme: minima
+
+# Show Projects and About in the top nav
+header_pages:
+  - projects.md
+  - about.md
+
+minima:
+  skin: dark
+
+linkedin_username: evanhall2478
+github_username: EvanHall2478
